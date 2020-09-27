@@ -6,7 +6,7 @@ Webpack (imports/exports)
         -Dev
           Dev Server, SourceMaps, Eslint, Not Minified JS & CSS
         -Prod
-          inified JS & CSS
+          Minified all
 
 
 Git
